@@ -1,5 +1,7 @@
 # TCM course guide.
 
+Hitting a hard reset rn
+
 | Day |         Content Covered        |
 |:---:|:------------------------------:|
 | 001 |        Networking Basics       |
