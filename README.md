@@ -1,6 +1,7 @@
 # Hacking-Notes
 
-Markdown Notes of My Hacking Journey.
+- Markdown Notes of My Hacking Journey.
+- These notes were originally wriiten on Notion and then exported as Markdown.
 
 ## Content
 
