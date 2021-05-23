@@ -1,6 +1,6 @@
 # TCM course guide.
 
-Hitting a hard reset rn. Will start working on it again.
+Hitting a hard reset rn. Will start working on it again. Today
 
 | Day |         Content Covered        |
 |:---:|:------------------------------:|
