@@ -11,4 +11,4 @@
 | 001 | Nemcomer's Playlist |       [WebInDepth](https://github.com/DenisWritesCode/Hacking-Notes/blob/main/HackerOne/002.WebInDepth.md)       |
 | 001 | Newcomer's Playlist |   [GoodReports](https://github.com/DenisWritesCode/Hacking-Notes/blob/main/HackerOne/003.WritingGoodReports.md)  |
 |  -  |          -          |                                                         -                                                        |
-| 01  | Burp Suite          | [Intro By Hammond](https://github.com/DenisWritesCode/Hacking-Notes/blob/main/BurpSuite/001.JohnHammondIntro.md) |
+| 001 | Burp Suite          | [Intro By Hammond](https://github.com/DenisWritesCode/Hacking-Notes/blob/main/BurpSuite/001.JohnHammondIntro.md) |
